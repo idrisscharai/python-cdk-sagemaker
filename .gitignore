@@ -1,0 +1,6 @@
+aws/
+awscliv2.zip
+cdk.out/
+sample-app/
+dummy-model/
+idriss-model-challenge.tar.gz
